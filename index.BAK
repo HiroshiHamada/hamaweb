@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ["\\(","\\)"]] } });
+</script>
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
+<meta http-equiv="X-UA-Compatible" CONTENT="IE=EmulateIE7" />
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" href="css/common.css" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<title>Hiroshi Hamada</title>
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
+<![endif]-->
+</head>
+<body>
+<div id="top">
+<!--<div id="fixedheader">-->
+   <div id="header">
+<h1>
+$$
+\int_{-\infty}^{\infty} f(x) dx
+$$
+</h1>
+      <div id="pr">
+         <p>浜田宏(東北大学大学院文学研究科准教授)の研究業績，授業資料，研究ノートを公開しています（ベータ版）.</p>
+      <!-- /#pr --></div>
+   <!-- /#header --></div>
+   <div id="menu">
+      <ul>
+         <li><a href="#papers" class="active">業績</a></li>
+         <li><a href="#class" class="active">授業資料</a></li>
+         <li><a href="#notes" class="active">研究ノート</a></li>
+         <li><a href="#others" class="active">その他</a></li>
+      </ul>
+   </div>
+
+<!--    <div id="topicPath"> </div>  /#topicPath -->
+<!-- #fixedheader  </div>  -->
+
+
+<div id="contents">
+<div id="main">
+
+
+<h2 id="papers" >業績</h2>
+<p>
+研究活動の概要です．
+</p>
+
+<!--
+当CSSデザインテンプレートはライセンスフリーです。商用利用も無料でご利用いただけます。<br />
+ただし、jQueryはMITライセンスあるいはGPLv2ライセンスが適用されます。詳細は、<a href="http://jquery.org/license/jQuery">jQuery License</a>をご参考ください。jQueryのプラグインのライセンスはソースコードに記述しているのでそれに従ってください。（特に記載のないものに関してはライセンスフリーになります。）
+現在表示しているページに該当するメニューのa要素に｢class="active"｣を指定すると、メニューボタンの色が変わり、ナビゲーションの役割を果たします
+-->
+</p>
+
+<p>
+</p>
+
+<h3 >論文(査読有り)</h3>  
+
+<!--
+<a href="">《pdf》</a>
+-->
+<p>
+浜田宏, 1997, 「近代日本における恋愛の変容Ⅰ」『年報社会学論集』10:120-132. <a href="https://www.jstage.jst.go.jp/article/kantoh1988/1997/10/1997_10_121/_article/-char/ja/">《pdf》</a>
+</p>
+ <p>
+浜田宏, 1999a, 「相対的剥奪と準拠集団の数理モデル」『理論と方法』25(VOl.14 No.1):91-104. 3月31日<a href="">《pdf》</a>
+ <p>
+浜田宏, 1999b, 「所得分布の生成モデル－反復投資ゲームによる定式化－」『理論と方法』26(Vol.14 No.2):3-17.9月30日　<a href="">《pdf》</a>
+ <p>
+浜田宏, 2001a, 「理論社会学としての数理社会学」『理論と方法』29(Vol.16 No.1):121-30. 3月31日　<a href="">《pdf》</a>
+ <p>
+浜田宏, 2001b, 「経済的地位の自己評価と準拠集団－δ区間モデルによる定式化－」『社会学評論』206号（第52巻・第2号）:283-99. 9月30日　<a href="https://www.jstage.jst.go.jp/article/jsr1950/52/2/52_2_283/_article/-char/ja/">《pdf》</a>
+ <p>
+浜田宏, 2002a, 「相対的剥奪と分配の不平等」博士学位論文. 関西学院大学大学院社会学研究科提出.  
+ </p>
+ <p>
+浜田宏, 2002c, 「公正指標による相対的剥奪論のフォーマライゼーション」『理論と方法』31(Vol.17 No.1):53-70.6月30日　<a href="https://www.jstage.jst.go.jp/article/ojjams/17/1/17_1_53/_article/-char/ja/">《pdf》</a>
+ <p>
+Hamada, Hiroshi, 2003, "A Generative Model of Income Distribution," Journal of Mathematical Sociology, 27 (4): 279-99.12月31日　<a href="http://www.tandfonline.com/doi/abs/10.1080/00222500390240939">《pdf》</a>
+ <p>
+浜田宏・石田淳, 2003「不平等社会と機会の均等―機会格差調整後の不平等度測定法―」『社会学評論』215号(第54巻・第3号):232-249. 12月31日　<a href="https://www.jstage.jst.go.jp/article/jsr1950/54/3/54_3_232/_article/-char/ja/">《pdf》</a>
+ <p>
+Hamada, Hiroshi, 2004, "A Generative Model of Income Distribution 2: Inequality of the Iterated Investment Game," Journal of Mathematical Sociology, 28 (1): 1-24. 3月31日　<a href="http://www.tandfonline.com/doi/abs/10.1080/00222500490278522">《pdf》</a>
+ <p>
+浜田宏, 2004,「不遇指数の公理的構成」『先端社会研究』第1号:53-78. 
+ <p>
+石田淳・浜田宏, 2005,「仮想的機会調整による不平等分析―ブートストラップ法による機会調整前後のジニ係数の有意差検定―」『理論と方法』37(Vol.20 No.1):109-125. 　<a href="https://www.jstage.jst.go.jp/article/ojjams/20/1/20_1_109/_article/-char/ja/">《pdf》</a>
+ </p>
+ <p>
+Hamada Hiroshi, 2005, "Parametric Decomposition of the Gini Coefficient: How Change of Subgroup Affect an Overall Inequality" Sociological Theory and Methods, 38(Vol.20 No.2):241-256.　<a href="https://www.jstage.jst.go.jp/article/ojjams/20/2/20_2_241/_article/-char/ja/">《pdf》</a>
+ <p>
+Hamada, Hiroshi, 2006, "An Axiomatic Approach to the Disadvantage Index," Kenji Kosaka eds, A sociology of Happiness: Japanese Perspectives, Trans Pacific Press: 40-60.
+ <p>
+浜田宏, 2006a,「客観的幸福と主観的幸福」『社会・経済システム』第27号:71-84. 10月14日　<a href="http://ci.nii.ac.jp/naid/110006687599">《pdf》</a>
+ <p>
+浜田宏, 2006b,「数理社会学者の課題――弱い経験的妥当性と意味の問題について」『理論と方法』40(Vol.21 No.2):183-198.　<a href="https://www.jstage.jst.go.jp/article/ojjams/21/2/21_2_183/_article/-char/ja/">《pdf》</a>
+ </p>
+石田淳・高坂健次・浜田宏,2006「住宅再建共済制度に関する数理社会学的考察 I―資産ダメージ率の分析」『先端社会研究』第5号:219-236.
+ <p>
+浜田宏・石田淳・高坂健次,2006「住宅再建共済制度に関する数理社会学的考察 II―加入率の分析」『先端社会研究』第5号:237-266.
+ <p>
+高坂健次・石田淳・浜田宏,2006「住宅再建共済制度に関する数理社会学的考察 III―行政コストの分析」『先端社会研究』第5号:267-285.
+ <p>
+浜田宏,2008「進学率と世代間移動の数理モデル」『社会学評論』232（58巻4号）:608-624.3月31日　<a href="https://www.jstage.jst.go.jp/article/jsr/58/4/58_4_608/_article/-char/ja/">《pdf》</a>
+ </p>
+ <p>
+浜田宏, 2009年5月,「相対リスク回避モデルの再検討－－Breen and Goldthorpeモデルの一般化」『理論と方法』45(Vol.24 No.1):57-76.(5月25日)　<a href="https://www.jstage.jst.go.jp/article/ojjams/24/1/24_1_57/_article/-char/ja/">《pdf》</a>
+ <p>
+浜田宏, 2009年10月,「N人ジレンマの提携形ゲーム」『理論と方法』46(Vol.24 No.2):317-332.　<a href="https://www.jstage.jst.go.jp/article/ojjams/24/2/24_2_317/_article/-char/ja/">《pdf》</a>
+ </p>
+ <p>
+浜田宏, 2010年5月29日「差別をめぐる相互行為のダイナミクス－－演繹的研究のコアとしての数理モデル」『フォーラム現代社会学』第9号:42-51.
+ <p>
+浜田宏・七條達弘, 2010年4月,「異質な集団における相対的剥奪の一般モデル」『理論と方法』47(Vol.25 No.1):107-123.　<a href="https://www.jstage.jst.go.jp/article/ojjams/25/1/25_1_107/_article/-char/ja/">《pdf》</a>
+ </p>
+ <p>
+塩谷芳也・金澤悠介・浜田宏, 2012, 「ビネット調査による階層帰属メカニズムの検討」『理論と方法』52(Vol.27 No.2):243-258.　<a href="https://www.jstage.jst.go.jp/article/ojjams/27/2/27_243/_article/-char/ja/">《pdf》</a>
+ <p>
+浜田宏, 2012, 「線形結合モデルは科学的説明たりうるか？－－階層帰属意識研究における計量と数理の融合」『理論と方法』52(Vol.27 No.2):259-276.　<a href="https://www.jstage.jst.go.jp/article/ojjams/27/2/27_259/_article/-char/ja/">《pdf》</a>
+ <p>
+浜田宏・前田豊,2014，「小集団実験による相対的剥奪モデルの検証」『理論と方法』55(Vol.29 No.1):19-36.　<a href="">《pdf》</a>
+ <p>
+Ishida, Atsushi, Kenji Kosaka, and Hiroshi Hamada, 2014, "A Paradox of Economic Growth and Relative Deprivation," Journal of Mathematical Sociology, 38(4): 269-84.(10月)　<a href="http://www.tandfonline.com/doi/full/10.1080/0022250X.2013.815189">《pdf》</a>
+</p>
+
+
+<h3 >論文(査読無し)</h3>
+<p>
+浜田宏, 2002b, 「相対的剥奪論と反復投資ゲーム－公正指標による分析－」文部科学省科学研究費助成研究報告書『フォーマライゼーションによる社会学的伝統の継承と刷新』（基盤研究(B)(1)課題番号11410047研究代表者：三隅一人）149-64.  
+<p>
+浜田宏・七條達弘, 2005,「社会化の先取りの数理モデル」文部科学省科学研究費助成研究報告書『フォーマライゼーションによる社会学的伝統の展開と現代社会の解明』（基盤研究(B)(1)課題番号14310084 研究代表者：三隅一人）105-116.  
+ </p>
+Hamada, Hiroshi, 2005, "Justice Evaluation and History of the Iterated Investment Game," 文部科学省科学研究費助成研究報告書『フォーマライゼーションによる社会学的伝統の展開と現代社会の解明』（基盤研究(B)(1)課題番号14310084 研究代表者：三隅一人）151-164. 
+<p>
+浜田宏・石田淳, 2008年3月,「個人収入の適正感と満足度」土場学（編）『公共性と格差』2005年SSM調査研究会,科学研究費補助金特別研究「現代日本階層システムの構造と変動に関する総合的研究」成果報告書（2005年SSM調査シリーズ7）:45-56.
+<p>
+浜田宏, 2008年3月,「進学と世代間移動の合理的選択モデル－－MMI仮説の定式化」渡邊勉（編）『世代間移動と世代内移動』2005年SSM調査研究会,科学研究費補助金特別研究「現代日本階層システムの構造と変動に関する総合的研究」成果報告書（2005年SSM調査シリーズ3）:111-128.
+<p>
+Ishida, Atsushi, Hiroshi Hamada, and Kenji Kosaka, 2009,"Simulation Analysis of the Effects of the Global Redistribution of Wealth on Subjective Well-being in the World," Kwansei Gakuin University Social Sciences Review, Vol.14: 1-20. 
+<p>
+Hamada, Hiroshi, 2012, "A Model of Class Identification: Generalization of the Fararo-Kosaka Model using Lyapounov's Central Limit Theorem," Kwansei Gakuin University School of Sociology Journal. Vol.114:21-33. 
+ <p>
+Kosaka, Kenji, Atsushi Ishida, and Hiroshi Hamada, 2013, "A formal-theoretic approach to China puzzles: An application of relative deprivation theory to 'unhappy growth' and differential migrant workers' subjective well-being"『中国城市研究』6: 344-372.
+ </p>
+ <p>
+浜田宏, 2013, 「数理社会学の普及に関する数理社会学的考察」『ソシオロジ』57(3):127-134.
+</p>
+
+
+
+<h3>著書</h3>
+<p>
+浜田宏, 2007年12月, 『格差のメカニズム－－数理社会学的アプローチ』勁草書房. 総243頁. 　<a href="http://www.amazon.co.jp/%E6%A0%BC%E5%B7%AE%E3%81%AE%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0%E2%80%95%E6%95%B0%E7%90%86%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-%E9%96%A2%E8%A5%BF%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E5%8F%A2%E6%9B%B8-%E7%AC%AC125%E7%B7%A8-%E6%B5%9C%E7%94%B0-%E5%AE%8F/dp/432660204X">《Amazon》</a>
+<br>盛山和夫先生による書評　<a href="https://www.jstage.jst.go.jp/article/jsr/59/4/59_4_826/_article/-char/ja/">《pdf》</a>
+<p>
+数理社会学会監修 小林盾・金井雅之・佐藤嘉倫・内藤準・浜田宏・武藤正義, 2014年11月14日（編）『社会学入門：社会をモデルでとく』朝倉書店.　
+<p>
+盛山和夫・浜田宏・武藤正義・瀧川裕貴, 2015年(3月20日)『社会を数理で読み解く－－不平等とジレンマの構造』有斐閣.　<a href="http://www.amazon.co.jp/%E7%A4%BE%E4%BC%9A%E3%82%92%E6%95%B0%E7%90%86%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F----%E4%B8%8D%E5%B9%B3%E7%AD%89%E3%81%A8%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%81%AE%E6%A7%8B%E9%80%A0-%E7%9B%9B%E5%B1%B1-%E5%92%8C%E5%A4%AB/dp/4641174083/ref=sr_1_1?s=books&ie=UTF8&qid=1452759298&sr=1-1&keywords=%E7%A4%BE%E4%BC%9A%E3%82%92%E6%95%B0%E7%90%86%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BC%8D%EF%BC%8D%E4%B8%8D%E5%B9%B3%E7%AD%89%E3%81%A8%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%81%AE%E6%A7%8B%E9%80%A0">《Amazon》</a>
+</p>
+
+<h3>著書収録論文</h3>
+ <p>
+浜田宏, 2004年6月「相対的剥奪の生成－マートン準拠集団論の精緻化－」三隅一人(編)『社会学の古典理論――数理で蘇る巨匠たち』第8章，勁草書房, 149-172.
+ <p>
+浜田宏, 2004年3月「なぜ恵まれているのに不満を感じるか」数理社会学会監修，土場学・小林盾・佐藤嘉倫・数土直紀・三隅一人・渡辺勉(編)『社会を〈モデル〉でみる－数理社会学への招待』第32章，勁草書房, 150-153.
+ <p>
+浜田宏, 2005年2月「繰り返しゲームによる所得分布の生成」数土直紀・今田高俊 (編)『数理社会学シリーズ第1巻　数理社会学入門』第9章，勁草書房, 187-210. 
+ <p>
+浜田宏, 2005年6月「囚人のジレンマ」「リベラルパラドクス」大村英昭・宮原浩二郎・名部圭一（編）『社会文化理論ガイドブック』ナカニシヤ出版, p.53-p.56; p.227-p.230.
+ </p>
+<p>
+浜田宏, 2008年3月「幸福の測り方」「幸福感の現状」「幸福な社会のデザイン」高坂健次『幸福の社会理論』放送大学出版協会, 66-77;78-88;89-99.
+ <p>
+浜田宏・石田淳, 2011年「望ましい収入はどう決まるか？収入アスピレーション・レベルの最適化モデル」斉藤友里子・三隅一人（編）『現代の階層社会3－－流動化のなかの社会意識』東京大学出版:233-246.
+ <p>
+Hamada, Hiroshi and Yusuke Hayashi, 2011,“Impact of Change in Household Composition on Poverty and Inequality in Japan,” Yoshimichi Sato and Jun Imai (eds.), Japan's New Inequality: Intersection of Employment Reforms and Welfare Arrangements, Trans Pacific Press.
+ <p>
+浜田宏, 2013年「数理モデルによる不平等と主観的厚生の分析」佐藤嘉倫・木村敏明（編）『不平等生成メカニズムの解明』第9章, ミネルヴァ書房（2013年03月15日発行）:187-206
+ <p>
+浜田宏, 2014年「貧しくても幸福を感じることができるか」辻竜平・佐藤嘉倫（編）『ソーシャル・キャピタルと格差社会：幸福への計量社会学的アプローチ』東京大学出版会（2014年06月20日発行）:209-224.
+ <p>
+浜田宏,2014年「社会階層 なぜ不平等をかんじるのか：相対的剥奪」数理社会学会監修 小林盾・金井雅之・佐藤嘉倫・内藤準・浜田宏・武藤正義（編）『社会学入門：社会をモデルでとく』朝倉書店
+ <p>
+浜田宏, 2015年「相対的剥奪のメカニズムーー人はどんなときに不満を感じるのか？」盛山和夫・浜田宏・武藤正義・瀧川裕貴,『社会を数理で読み解くーー不平等とジレンマの構造』有斐閣:81-113.
+ <p>
+浜田宏, 2015年「教育機会の不平等」盛山和夫・浜田宏・武藤正義・瀧川裕貴,『社会を数理で読み解くーー不平等とジレンマの構造』有斐閣:167-200.
+ <p>
+浜田宏, 2015年3月30日「実験シミュレーションによる展開」数土直紀（編）『社会意識から見た日本－－階層意識の新次元』有斐閣. 
+ <p>
+
+
+<div id="pageTop">
+<a href="#">ページのトップへ戻る</a>
+<!-- /#pageTop --></div>
+
+
+ <h3>書評</h3>
+ <p>
+浜田宏, 2006年9月 白波瀬佐和子（編）2006『変化する社会の不平等――少子高齢化に潜む格差』東京大学出版、に対する書評論文（『理論と方法』、40号(Vol.21 No.2)、350-353頁）	
+ <p>
+浜田宏, 2007年10月 藤本昌代, 2005『専門職の転職構造――組織準拠性と移動』文眞堂, に対する書評論文（『ソシオロジ』第52巻第2号、126-129頁）
+ <p>
+浜田宏, 2009年「書評リプライ 武藤氏の書評に答える」『理論と方法』45(Vol.24 No.1)139-141頁
+ <p>
+
+ <h3>招待講演</h3>
+ <p>
+浜田宏, 2009年12月12日, 「階層帰属意識の数理モデルの展開」シンポジウム：格差社会における階層意識の現状と課題 （大阪大学人間科学研究科）
+ <p>
+浜田宏, 2009年5月24日「演繹的研究のコアとしての数理モデル」第60回関西社会学会シンポジウム（於：京都大学）
+ <p>
+浜田宏, 2005年11月「客観的不幸と主観的幸福」第24回社会・経済システム学会大会（於：関西学院大学）
+ <p>
+浜田宏, 2014年12月20日「Mathematica による数理社会学の教育と研究」Wolfram Conference 2014: Tokyo, ウルフラムコンファレンス2014（於：早稲田大学）
+ <p>
+
+ <h3>科学研究費補助金・外部資金</h3>
+
+ <p>
+研究代表者：若手研究（B）平成17・18年度「社会構造の変動と不平等の数理社会学」
+ <p>
+研究分担者：基盤研究（B）研究代表者：高坂健次（関西学院大学）「グローバルな富の再分配と主観的幸福の増大」（2008（平成20）年度－2010（平成22）年度）
+ <p>
+研究代表者：若手研究（B）平成21-23年度「合理的選択および確率モデルによる階層研究」
+ <p>
+研究分担者：基盤研究(S) 研究代表者：吉川徹（大阪大学）「現代日本における階層意識と格差の連関変動過程の実証的解明」23223002、（2011年（平成23）－2015年（平成27年度）
+ <p>
+研究分担者：基盤研究(B)　研究代表者：石田淳（関西学院大学）「グローバリゼーション下の不平等社会における相対的剥奪――理論・実証的研究の刷新」23330171（2011（平成23）年度－2013（平成25）年度）
+ <p>
+学術調査官研究費2010年度「社会学に関する最新の学術動向の調査研究」
+ <p>
+研究代表者：挑戦的萌芽研究「実験・数理モデルによる理論社会学の刷新」（2015年（平成27）－2017年（平成29年度）
+ <p> 
+<h3>学会活動・兼任</h3>
+ <p>
+2009年4月－2011年3月　数理社会学会理事（研究）
+ <p>
+2010年4月－2012年3月　日本社会学会『社会学評論』査読委員
+ <p>
+2010年8月－2012年7月　文部科学省学術調査官（兼任）
+ <p>
+2011年4月－2013年3月　数理社会学会理事（編集委員長）
+ <p>
+2011年4月－2013年3月　数理社会学会研究活動委員
+ <p>
+2015年4月－2017年3月　数理社会学会理事（会計）
+ <p>
+
+<div id="pageTop">
+<a href="#">ページのトップへ戻る</a>
+<!-- /#pageTop --></div>
+
+
+<h3>国際学会報告・海外ワークショップ報告</h3>
+ <p>
+Hamada, Hiroshi, 2003, "Justice Evaluation and Income Distribution: Player's History as a Domain of Justice Evaluation Function," European Japanese Conference on Social Networks and Collective Action, (May 26th-30th, at Utrecht University) 
+ <p>
+Shichijo, Tatsuhiro and Hiroshi Hamada, 2003, "A Model of Relative Deprvation with Anticipatory Socialization," European Japanese Conference on Social Networks and Collective Action, (May 26th-30th, at Utrecht University) 
+ <p>
+Kosaka, Kenji, Atsushi Ishida and Hiroshi Hamada, 2004, "The Notion of Vulnerability: In Search of Answers to the Study of Social Stratification," The 36th World Congress of International Institute of Sociology, Beijing, China.
+ <p>
+Hamada, Hiroshi, 2005, "A Model of Income Distribution: Game Theoretic Approach," Japan and German Frontier of science 2nd, 2-5 November, Kanagawa, Japan.
+ <p>
+Ishida, Atsushi,  Kenji Kosaka, and Hiroshi Hamada, 2005, "Risk and Vulnerability Caused by Large-scale Disaster: Toward a New Perspective on Social Stratification," The 7th Conference of Asia-Pacific Sociological Association, Bangkok and Mahidol University, Salaya campus, Bangkok Thailand. 
+ <p>
+Ishida, Atsushi, Kenji Kosaka and Hiroshi Hamada, 2006,"A Boolean Analysis of Human Well-being," International Conference on Comparative Social Sciences, Sophia University, Tokyo, Japan, July 15-16.
+ <p>
+Ishida,	Atsushi, Hiroshi Hamada and Kenji Kosaka, 2007, "How Many People in the World Will Be Better Off by Redistribution of Wealth? :A Virtual Redistribution Analysis," The 8th Conference of the Asia Pacific Sociological Association, Penang, Malaysia, 19-22, November.
+ </p>
+ <p>
+Atsushi ISHIDA,	Hiroshi Hamada and Kenji KOSAKA, 2008, "A Simulation Analysis of Effects of Global Redistribution of Wealth on Subjective Well-being in the World," The 38th World Congress of International Institute of Sociology, Budapest, Hungary, June 26-30.
+ <p>
+Hamada, Hiroshi, 2009, "A Rational Choice Model of Educational Attainment," The 9th Conference of The Asia Pacific Sociological Association, June 13-15, 2009,  Discovery Kartika Plaza, Kuta, Bali, Indonesia.
+ <p>
+Hamada, Hiroshi, 2009, "A Model of Educational Attainment: Effect of Social Origin," Logic, Game, Theory,and Social Choice 6, Aug 26-29, 2009, University of Tsukuba, Tsukuba, Japan. 
+ <p>
+Hamada, Hiroshi, 2009, "A Model of Inequality and Educational Attainment in Japan,"A Tohoku University & NUS Joint Forum of Sociology & Stratification Studies, February 18-19, National University of Singapore, Singapore.
+ <p>
+Hamada, Hiroshi, 2009, "A Probability Model for Educational Attainment," The Third International Symposium on Frontiers of Sociological Inquiries by Young Scholars in Asia, March 12-13, Yonsei University, Seoul, Korea.
+ </p>
+Hamada, Hiroshi, 2010, "A Model of Class Differentials in Educational Attainment," 17th ISA world congress of sociology, Gothenburg, Sweden, July 11-17, 2010, (Integrative Session 5, July 14) 
+ <p>
+Hamada, Hiroshi and Jae-Woo Kim, 2011, "Evolution of Cultural Groups from Parochial Cooperation: A Mathematical and Computational Study," 82nd Annual Pacific Sociological Association Meeting, Seattle, March 10-13, 2011.
+ <p>
+Kim, Jae-Woo and Hiroshi Hamada, 2011, "Replicator Dynamic of Tag-based Prisoner's Dilemma," American Sociological Association Meeting, August 20, 2011, Las Vegas, NV.
+ <p>
+Ishida, Atsushi, Kenji Kosaka, Hiroshi Hamada, and Yutaka Maeda, 2012, "Economic Growth and Paradoxes of Relative Deprivation" The 40th World Congress of the IIS, Regular Session, "Emerging Frontiers of Relative Deprivation Theory," 16-19 Feb 2012, Delhi, India, 
+ <p>
+Kosaka, Kenji, Atsushi Ishida, and Hiroshi Hamada, 2012, "A Formal Approach to the 'China Puzzles,' The 12th Conference of The Asia Pacific Sociological Association,2012 October 22-24, Manila University, Phillipines.
+ </p>
+
+<div id="pageTop">
+<a href="#">ページのトップへ戻る</a>
+<!-- /#pageTop --></div>
+
+<h2 id="class" >授業資料</h2>
+
+
+<h3>授業内配付資料</h3>
+
+<p>
+「社会科学者のためのMathematica入門」(2016.1.20)　<a href="m2015.pdf">《pdf》</a>
+<p>
+
+
+
+<h3>数理行動科学研究演習用　Mathematicaコード・サンプル</h3>
+<p>
+授業で用いたサンプルコードです．各コードの意味と使い方は<a href="m2015.pdf">授業内配付資料(社会科学者のためのMathematica入門)</a>を参照してください.
+ファイルは適宜，追加・更新されます．リンク切れになっているものは現在更新中です．
+<p>
+右クリックして，対象を保存．(゜Д゜)ウマー
+</p>
+
+  <ul>
+ <li><a href="notebasic.nb">notebasic.nb</a></li>
+ <li><a href="mathbasic.nb">mathbasic.nb</a></li>
+ <li><a href="rt.nb">rt.nb</a></li>
+ <li><a href="edu.nb">edu.nb</a></li>
+ <li><a href="edu2.nb">edu2.nb</a></li>
+ <li><a href="sieve.nb">sieve.nb</a></li>
+ <li><a href="sieve2.nb">sieve2.nb</a></li>
+ <li><a href="odds.nb">odds.nb</a></li>
+ <li><a href="jobint2.nb">jobint2.nb</a></li>
+ <li><a href="olssim1.nb">olssim1.nb</a></li>
+ <li><a href="olssim2.nb">olssim2.nb</a></li>
+ <li><a href="cogame.nb">cogame.nb</a></li>
+ <li><a href="gs3.nb">gs3.nb</a></li>
+ <li><a href="image.nb">image.nb</a></li>
+ <li><a href="battle.nb">battle.nb</a></li>
+ <li><a href="battle2.nb">battle2.nb</a></li>
+ <li><a href="seg.nb">seg.nb</a></li>
+ <li><a href="gmi.nb">gmi.nb</a></li>
+ <li><a href="tr.nb">tr.nb</a></li>
+ <li><a href=".nb">.nb</a></li>
+ <li><a href=".nb">.nb</a></li>
+ </ul>
+
+  <h3>シミュレーション作成用関数アーカイヴ</h3>
+
+ <ul>
+ <li><a href="moore.nb">moore.nb</a>: 2次元トーラス空間のムーア近傍座標を出力する関数</li>
+ <li><a href="rm.nb">rm.nb</a>: 偶数人数をランダムマッチングさせる関数</li>
+ </ul>
+
+  <h3>Rコード(翻訳中)</h3>
+
+<ul>
+ <li><a href="edu.R">edu.R</a></li>
+ <li><a href="jobint.R">jobint.R</a></li>
+ <li><a href="ols3.R">ols3.R</a></li>
+ <li><a href="omit.R">omit.R</a></li>
+ <li><a href=".R">.R</a></li>
+ <li><a href=".R">.R</a></li>
+ </ul>
+
+
+
+
+
+<div id="pageTop">
+<a href="#">ページのトップへ戻る</a>
+<!-- /#pageTop --></div>
+
+
+<h2 id="notes" >研究ノート</h2>
+<p>
+研究ノートやその他の書きものです．
+</p>
+
+
+<p>
+         <ul>
+ <li>A Generative Model of Income Distribution (minimal version)</li>
+ <li>モンティホール問題に関するノート</li>
+
+            <li>Thus Spoke Mathematics 1</li>
+            <li>Thus Spoke Mathematics 2</li>
+            <li>アイテム</li>
+         </ul>
+</p>
+
+
+<h2 id="others" >その他</h2>
+
+
+
+
+
+<p>
+         <ul>
+            <li>Twitter</li>
+            <li>Facebook</li>
+            <li></li>
+         </ul>
+</p>
+
+<div id="pageTop">
+<a href="#">ページのトップへ戻る</a>
+<!-- /#pageTop --></div>
+
+
+      <!-- /#main --></div>
+     
+
+
+   <!-- /#contents --></div>
+   <div id="footer">
+      <div class="copyright">Copyright &copy; 2016 Hiroshi Hamada All Rights Reserved.</div>
+   <!-- /#footer --></div>
+<!-- /#top --></div>
+</body>
+</html>
+
+
+
+<!--
+
+
+         <p>
+            以下、サンプルタグになります。ご利用の際は参考にしてみてください。
+         </p>
+         <h3>INFORMATION</h3>
+         <dl class="information">
+            <dt><span>2011-01-01</span></dt>
+            <dd>
+               <div>
+                  テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト。<br />
+               </div>
+            </dd>
+            <dt><span>2011-01-23</span></dt>
+            <dd>
+               <div>
+                  テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト。<br />
+               </div>
+            </dd>
+         </dl>
+         <h3>h3タグ</h3>
+         <h4>h4タグ</h4>
+         <h5>h5タグ</h5>
+         <h6>h6タグ</h6>
+         <p>
+            <em>強調（em）</em>
+            <strong>より強い強調（strong）</strong>
+            <ins>追加（ins）</ins>
+            <del>削除（del）</del>
+            <br />
+            <a href="#">テキストアンカー</a>
+         </p>
+-->
