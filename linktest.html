@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <title>質問紙へのリンク</title>
+    <script type="text/javascript">
+    <!--
+      var mylink = new Array(
+        "https://tomomon.jp/programming/ksnctf5/",
+        "https://tomomon.jp/travel/travel_ranking/"
+      );
+      function random_jump() {
+        var i = Math.floor(Math.random() * mylink.length);
+        location.href = mylink[i];
+      }
+    // -->
+    </script>
+  </head>
+  <body>
+    <h1>概要</h1>
+    <p>リンクをクリックするとgoogle formに移動します．</p>
+    <a href="javascript:random_jump();">google formに移動します</a>
+  </body>
+</html>
